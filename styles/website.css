@@ -55,13 +55,18 @@ h6 {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal {
-    min-height:350px;
+    min-width: 110%;
+	margin-left: auto;
+	margin-right: auto;
+	min-height:350px;
     margin-bottom: 20px;
+	
 }
 
 
 
 .book .book-body .page-wrapper .page-inner section.normal hr {
+	
     height: 0px;
     padding: 0;
     margin: 1 em 0;
@@ -119,6 +124,7 @@ h6 {
 
 /*正文字体设置*/
 .book .book-body .page-wrapper  section.normal {
+	max-width: 960px;
     font-size: 17px;
 	letter-spacing: 0.15;
 	
@@ -211,6 +217,7 @@ strong {
 	color: #616161;
     padding: 0 1px;
 }
+
 
 
 /*修改图片*/

@@ -1,4 +1,4 @@
-<img src=".\img\color\v2-a5c9f73e109c6e71d46fefcabb70ea01_1440w.jpg" alt="v2-a5c9f73e109c6e71d46fefcabb70ea01_1440w"  />
+<img  src=".\img\color\v2-a5c9f73e109c6e71d46fefcabb70ea01_1440w.jpg" alt="v2-a5c9f73e109c6e71d46fefcabb70ea01_1440w"  />
 
 
 
@@ -6,13 +6,11 @@
 
 # ✨配色篇：PPT 颜色搭配需要注意什么 ？
 
-
-
 ## 色彩的几种组合方式
 
 色环
 
-<img src=".\img\color\image-20200720194324030.png" alt="image-20200720194324030" style="width:350px;height: auto;max-height: 500px;max-width: 350px; min-width:350px ;overflow:hidden; " />
+<img src=".\img\color\image-20200720194324030.png" alt="image-20200720194324030" style="zoom: 50%;" />
 
 
 
@@ -24,7 +22,7 @@
 
 在色轮上互相对着的颜色，如图所标红配绿。这种高度色差的色调，尤其在这样的这样的纯色下显得十分强烈，通常这样的互补色我们都会通过**改变明度降低纯度**的方法来让它们看起来不那么刺眼。互补色用起来要注意，很多广告和招贴为了吸引眼球经常会使用。
 
-<img src=".\img\color\5699a6632a8c22130477b3ef0ae805cc_720w.jpg" alt="5699a6632a8c22130477b3ef0ae805cc_720w" style="zoom:50%;" />
+<img src=".\img\color\image-20200720222648928.png" alt="image-20200720222648928" style="zoom:80%;" />
 
 降低纯度的互补色非常和谐好看有木有，而且设计中一般都会降纯度的，用大纯色一般都是出于某种视觉冲击需要。
 
